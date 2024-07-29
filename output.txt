@@ -1,1 +1,1 @@
-13
+Is not Pythagorean Triplet
